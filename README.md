@@ -15,7 +15,7 @@ Images of different parameters(standardization, metric):
 ![avatar](Random_cluster5.png)
 ![avatar](Random_cluster6.png)
 
-Clara methods using the manhattan and euclidean meric with standardization have the least intra-cluster sum of squares and are the best. Since each data is stretched in a certain dimension, in order to offset the interference caused by this stretch, the interference can be offset by using data standardization to restore the data to a standard distribution. Therefore we use the standardized keams algorithm to get the best results.
+Clara methods using the manhattan and euclidean meric with standardization have the least intra-cluster sum of squares and are the best. Since each data is stretched in a certain dimension, in order to offset the interference caused by this stretch, the interference can be offset by using data standardization to restore the data to a standard distribution. Therefore we use the standardized clara algorithm to get the best results.
 
 ## Work3
 I used Ward clusterization method with euclidean distance for this work:
