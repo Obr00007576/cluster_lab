@@ -9,7 +9,6 @@ The generated clusters:
 ![avatar](Random_cluster1.png)
 
 Images of different parameters(standardization, metric):
-![avatar](Random_cluster1.png)
 ![avatar](Random_cluster2.png)
 ![avatar](Random_cluster3.png)
 ![avatar](Random_cluster4.png)
