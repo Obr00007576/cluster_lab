@@ -31,3 +31,4 @@ I use Ward clusterization method with manhattan distance for this work:
 This method classifies some species such as insects, birds, and mammals at the lower end, but in the upper categories, there is still a lot of confusion.
 
 ## Work5
+![avatar](seeds.png)
